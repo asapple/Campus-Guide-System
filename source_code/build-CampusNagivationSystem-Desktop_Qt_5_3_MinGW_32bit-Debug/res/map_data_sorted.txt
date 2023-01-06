@@ -1,0 +1,2304 @@
+#Node number: 0
+18 40
+193 316
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+west_gate
+
+#Node number: 1
+12 32
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+hong_tong_building
+
+#Node number: 2
+6 8
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+youth_apartment
+
+#Node number: 3
+9 5
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+xue_13_apartment
+
+#Node number: 4
+14 11
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+post_office
+
+#Node number: 5
+16 10
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+CHL_business_hall
+
+#Node number: 6
+2 8
+7 21
+22 71
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 7
+6 21
+8 40
+146 84
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 8
+9 37
+7 40
+23 44
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 9
+3 5
+10 34
+8 37
+24 45
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 10
+11 32
+9 34
+100 86
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 11
+12 25
+10 32
+51 85
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 12
+13 17
+11 25
+1 32
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 13
+12 17
+26 45
+14 47
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 14
+4 11
+15 12
+13 47
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 15
+14 12
+16 52
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+jiao_4_building_west
+
+#Node number: 16
+5 10
+15 52
+17 55
+99 85
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 17
+18 13
+16 55
+98 87
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 18
+17 13
+0 40
+19 43
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 19
+18 43
+20 50
+63 89
+196 5000
+197 5000
+-1 -1
+school_bus
+
+#Node number: 20
+19 50
+94 230
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+jiao_3_building_west
+
+#Node number: 21
+29 56
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+bupt_technology_hotel
+
+#Node number: 22
+28 8
+6 71
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+xue_9_apartment
+
+#Node number: 23
+150 40
+8 44
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+xue_5_apartment
+
+#Node number: 24
+149 37
+9 45
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+xue_3_apartment
+
+#Node number: 25
+26 10
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+xue_1_apartment
+
+#Node number: 26
+25 10
+101 39
+13 45
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 27
+84 39
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+01_time_coffee
+
+#Node number: 28
+22 8
+186 34
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+foreign_student_apartment_north
+
+#Node number: 29
+32 19
+21 56
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+xue_11_apartment
+
+#Node number: 30
+31 29
+179 97
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 31
+32 9
+30 29
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+xue_10_apartment_west
+
+#Node number: 32
+31 9
+29 19
+184 19
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 33
+129 21
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+xue_6_apartment
+
+#Node number: 34
+123 14
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+northeast_gate
+
+#Node number: 35
+44 10
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+tennis/volleyball_court
+
+#Node number: 36
+42 10
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+xue_29_apartment
+
+#Node number: 37
+38 8
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+gymnasium_north
+
+#Node number: 38
+37 8
+44 30
+42 31
+115 100
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 39
+41 8
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+natatorium
+
+#Node number: 40
+41 29
+195 85
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+east_gate
+
+#Node number: 41
+39 8
+42 10
+40 29
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 42
+36 10
+41 10
+38 31
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 43
+105 56
+44 88
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+gymnasium_west
+
+#Node number: 44
+35 10
+38 30
+110 81
+43 88
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 45
+46 10
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+xue_2_apartment
+
+#Node number: 46
+45 10
+101 41
+102 56
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 47
+48 26
+50 32
+147 35
+157 90
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 48
+47 26
+49 56
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+xue_4_apartment_southeast
+
+#Node number: 49
+100 15
+48 56
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+xue_4_apartment_southwest
+
+#Node number: 50
+47 32
+102 43
+157 92
+51 97
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 51
+100 32
+101 43
+11 85
+50 97
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 52
+99 30
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+jiao_4_building_south
+
+#Node number: 53
+58 14
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+jiao_1_building_west
+
+#Node number: 54
+57 14
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+jiao_4_building_east
+
+#Node number: 55
+56 12
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+logistics_building
+
+#Node number: 56
+55 12
+102 26
+57 35
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 57
+54 14
+58 16
+56 35
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 58
+53 14
+57 16
+62 37
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 59
+61 10
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+jiao_1_building_south
+
+#Node number: 60
+61 53
+74 59
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+main_building
+
+#Node number: 61
+59 10
+60 53
+108 87
+62 97
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 62
+58 37
+97 56
+99 97
+61 97
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 63
+98 56
+19 89
+96 94
+-1 -1
+-1 -1
+-1 -1
+jiao_3_building_north
+
+#Node number: 64
+192 27
+108 65
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+science_hall_west
+
+#Node number: 65
+192 18
+71 20
+69 68
+-1 -1
+-1 -1
+-1 -1
+science_hall_south
+
+#Node number: 66
+69 7
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+stadium_west
+
+#Node number: 67
+104 42
+68 51
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+stadium_north
+
+#Node number: 68
+105 42
+69 43
+67 51
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 69
+66 7
+70 27
+68 43
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 70
+69 27
+71 61
+80 149
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 71
+72 18
+65 20
+70 61
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 72
+77 13
+71 18
+192 20
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 73
+74 26
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+jiao_2_building_north
+
+#Node number: 74
+73 26
+60 59
+77 77
+96 97
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 75
+95 14
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+jiao_3_building_east
+
+#Node number: 76
+95 17
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+jiao_2_building_west
+
+#Node number: 77
+72 13
+78 50
+74 77
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 78
+77 50
+81 52
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+jiao_2_building_east
+
+#Node number: 79
+80 10
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+TNCCIC
+
+#Node number: 80
+79 10
+81 45
+70 149
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 81
+80 45
+78 52
+94 174
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 82
+90 46
+84 50
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+school_hospital
+
+#Node number: 83
+88 16
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+south_supermarket
+
+#Node number: 84
+27 39
+85 40
+82 50
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 85
+84 40
+87 96
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 86
+194 101
+87 214
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+south_gate
+
+#Node number: 87
+88 17
+86 214
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 88
+83 16
+87 17
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 89
+90 352
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+ming_guang_building_press
+
+#Node number: 90
+91 15
+88 23
+82 46
+89 352
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 91
+92 15
+90 15
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+mid_gate
+
+#Node number: 92
+91 15
+94 16
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+mid_gate_post_office
+
+#Node number: 93
+91 15
+94 16
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+mid_gate_post_office
+
+#Node number: 94
+92 16
+95 54
+81 174
+20 230
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 95
+75 14
+76 17
+96 51
+94 54
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 96
+95 51
+97 56
+63 94
+74 97
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 97
+62 56
+96 56
+98 97
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 98
+99 56
+63 56
+17 87
+97 97
+-1 -1
+-1 -1
+school_motto_stone
+
+#Node number: 99
+52 30
+98 56
+16 85
+62 97
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 100
+49 15
+51 32
+149 35
+10 86
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 101
+26 39
+46 41
+51 43
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 102
+56 26
+50 43
+46 56
+156 89
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 103
+109 8
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+jiao_1_building_east
+
+#Node number: 104
+67 42
+105 51
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+national_fitness
+
+#Node number: 105
+107 39
+68 42
+104 51
+43 56
+-1 -1
+-1 -1
+national_fitness
+
+#Node number: 106
+107 12
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+science_hall_north
+
+#Node number: 107
+106 12
+105 39
+108 40
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 108
+109 27
+107 40
+64 65
+61 87
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 109
+103 8
+108 27
+110 87
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 110
+111 33
+44 81
+155 82
+109 87
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 111
+110 33
+112 67
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+basketball_court
+
+#Node number: 112
+162 20
+113 30
+111 67
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 113
+112 30
+116 39
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+student_canteen_south
+
+#Node number: 114
+115 54
+122 92
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 115
+116 44
+120 48
+114 54
+38 100
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 116
+113 39
+115 44
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 117
+118 16
+165 39
+116 82
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 118
+119 10
+117 16
+191 22
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 119
+118 10
+121 22
+190 70
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 120
+191 34
+115 48
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+security_department
+
+#Node number: 121
+191 10
+119 22
+122 59
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 122
+121 59
+123 70
+114 92
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 123
+34 14
+124 42
+122 70
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 124
+190 39
+123 42
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+youth_teacher_apartment
+
+#Node number: 125
+126 33
+190 53
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+scientific_research_hall_north
+
+#Node number: 126
+128 19
+169 19
+125 33
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 127
+128 39
+173 90
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 128
+126 19
+129 25
+127 39
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 129
+33 21
+128 25
+170 38
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 130
+135 11
+168 25
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+ming_xiang_bar_north
+
+#Node number: 131
+135 13
+133 21
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+photographic_agency
+
+#Node number: 132
+134 5
+188 6
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+school_supermarket_west
+
+#Node number: 133
+134 10
+131 21
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+school_supermartket_east
+
+#Node number: 134
+132 5
+133 10
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+bathhouse
+
+#Node number: 135
+130 11
+131 13
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+water_house
+
+#Node number: 136
+137 20
+189 30
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+maan_coffee
+
+#Node number: 137
+136 20
+159 20
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+student_mental_education_center
+
+#Node number: 138
+139 14
+140 22
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+comprehensive_canteen_east
+
+#Node number: 139
+138 14
+141 24
+183 26
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 140
+141 12
+138 22
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+take-out_window_east
+
+#Node number: 141
+140 12
+139 24
+152 40
+143 50
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 142
+143 9
+189 18
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+student_activity_center_south
+
+#Node number: 143
+142 9
+141 50
+154 70
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 144
+145 7
+186 21
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+comprehensive_canteen_west
+
+#Node number: 145
+144 7
+146 20
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+foreign_student_apartment_east
+
+#Node number: 146
+145 20
+150 40
+140 83
+7 84
+-1 -1
+-1 -1
+take-out_window_west
+
+#Node number: 147
+153 10
+47 35
+148 56
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 148
+149 41
+147 56
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+xue_4_apartment
+
+#Node number: 149
+100 35
+24 37
+150 40
+148 41
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 150
+146 40
+23 40
+149 40
+151 43
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 151
+150 43
+152 54
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+xue_8_apartment
+
+#Node number: 152
+153 30
+141 40
+151 43
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 153
+147 10
+152 30
+154 48
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 154
+159 27
+153 48
+143 70
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 155
+156 23
+110 82
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+administration_office
+
+#Node number: 156
+155 23
+157 63
+102 89
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 157
+158 55
+156 63
+47 90
+50 92
+-1 -1
+-1 -1
+library
+
+#Node number: 158
+159 14
+157 55
+160 59
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 159
+158 14
+137 20
+154 27
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 160
+162 36
+158 59
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+school_bookstore
+
+#Node number: 161
+162 8
+163 20
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+student_canteen_west
+
+#Node number: 162
+161 8
+112 20
+160 36
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 163
+164 13
+161 20
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+teacher/staff_canteen_south
+
+#Node number: 164
+167 10
+163 13
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+teacher/staff_canteen_north
+
+#Node number: 165
+166 30
+117 39
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+scientific_research_hall_south
+
+#Node number: 166
+168 8
+167 11
+165 30
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 167
+164 10
+166 11
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+ming_xiang_bar_east
+
+#Node number: 168
+166 8
+130 25
+169 53
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 169
+126 19
+170 25
+168 53
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 170
+169 25
+129 38
+171 65
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 171
+172 28
+188 53
+170 65
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 172
+171 28
+173 49
+175 56
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 173
+174 31
+172 49
+127 90
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 174
+173 31
+179 63
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+EM_building_north
+
+#Node number: 175
+176 38
+172 56
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+EM_building_south
+
+#Node number: 176
+182 25
+177 28
+175 38
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 177
+179 21
+176 28
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+xue_10_apartment_east
+
+#Node number: 178
+179 15
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+north_gate
+
+#Node number: 179
+178 15
+177 21
+174 63
+30 97
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 180
+178 15
+177 21
+174 63
+30 97
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 181
+182 17
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+student_activity_center
+
+#Node number: 182
+183 8
+181 17
+176 25
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 183
+182 8
+139 26
+185 56
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 184
+32 19
+186 23
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+jiao_9_apartment
+
+#Node number: 185
+186 41
+183 56
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+xue_10_apartment_south
+
+#Node number: 186
+144 21
+184 23
+28 34
+185 41
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 187
+31 9
+29 19
+184 19
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 188
+132 6
+189 18
+171 53
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 189
+142 18
+188 18
+136 30
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 190
+124 39
+125 53
+119 70
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 191
+121 10
+118 22
+120 34
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 192
+65 18
+72 20
+64 27
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 193
+0 316
+196 5000
+197 5000
+-1 -1
+-1 -1
+-1 -1
+ming_guang_north_station
+
+#Node number: 194
+86 101
+196 5000
+197 5000
+-1 -1
+-1 -1
+-1 -1
+ming_guang_east_station
+
+#Node number: 195
+40 85
+196 5000
+197 5000
+-1 -1
+-1 -1
+-1 -1
+xin_tan_station
+
+#Node number: 196
+198 37
+19 5000
+193 5000
+194 5000
+195 5000
+-1 -1
+sha_he_west_gate
+
+#Node number: 197
+253 63
+208 68
+19 5000
+193 5000
+194 5000
+195 5000
+sha_he_school_bus
+
+#Node number: 198
+196 37
+199 241
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+delivery_station
+
+#Node number: 199
+201 82
+202 95
+198 241
+200 384
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 200
+243 143
+199 384
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 201
+220 22
+224 56
+219 75
+199 82
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 202
+252 48
+225 83
+199 95
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 203
+204 63
+205 68
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+sha_he_post_office
+
+#Node number: 204
+207 46
+253 57
+203 63
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 205
+206 48
+208 55
+203 68
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 206
+205 48
+209 54
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+sha_he_library_south
+
+#Node number: 207
+204 46
+212 54
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+sha_he_supermarket
+
+#Node number: 208
+229 47
+205 55
+197 68
+236 240
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 209
+206 54
+210 92
+212 131
+-1 -1
+-1 -1
+-1 -1
+sha_he_library_north
+
+#Node number: 210
+209 92
+211 139
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 211
+212 100
+214 116
+210 139
+-1 -1
+-1 -1
+-1 -1
+sha_he_hospital
+
+#Node number: 212
+207 54
+211 100
+213 116
+209 131
+-1 -1
+-1 -1
+sha_he_integrated_office
+
+#Node number: 213
+221 47
+254 95
+214 100
+212 116
+-1 -1
+-1 -1
+sha_he_teacher_canteen
+
+#Node number: 214
+215 48
+213 100
+211 116
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 215
+214 48
+216 95
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+sha_he_student_apartment_D2
+
+#Node number: 216
+218 43
+215 95
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 217
+218 22
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+sha_he_stadium_north
+
+#Node number: 218
+217 22
+216 43
+219 57
+-1 -1
+-1 -1
+-1 -1
+sha_he_student_apartment_E
+
+#Node number: 219
+220 22
+254 48
+218 57
+201 75
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 220
+219 22
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+sha_he_stadium_south
+
+#Node number: 221
+222 33
+213 47
+252 109
+-1 -1
+-1 -1
+-1 -1
+sha_he_student_canteen
+
+#Node number: 222
+221 33
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+sha_he_student_apartment_D1
+
+#Node number: 223
+254 37
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+sha_he_student_apartment_C
+
+#Node number: 224
+201 56
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+sha_he_student_apartment_B
+
+#Node number: 225
+202 83
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+sha_he_student_apartment_A
+
+#Node number: 226
+227 89
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+sha_he_report_hell
+
+#Node number: 227
+229 44
+231 44
+226 89
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 228
+229 33
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+sha_he_teaching_building_north
+
+#Node number: 229
+228 33
+227 44
+208 47
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 230
+231 33
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+sha_he_teaching_building_south
+
+#Node number: 231
+230 33
+227 44
+238 46
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 232
+237 33
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+sha_he_laboratory_building
+
+#Node number: 233
+234 33
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+sha_he_teaching_S1
+
+#Node number: 234
+233 33
+236 41
+237 141
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 235
+237 85
+240 240
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 236
+234 41
+208 240
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 237
+232 33
+235 85
+234 141
+238 240
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 238
+231 46
+240 82
+237 240
+255 246
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 239
+240 143
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+sha_he_south_gate
+
+#Node number: 240
+238 82
+242 89
+239 143
+235 240
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 241
+245 35
+247 35
+242 158
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 242
+240 89
+241 158
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 243
+245 90
+200 143
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 244
+246 72
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+sha_he_
+
+#Node number: 245
+241 35
+246 41
+243 90
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 246
+245 41
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+sha_he_S5
+
+#Node number: 247
+241 35
+255 49
+248 131
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 248
+250 49
+247 131
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 249
+250 59
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+sha_he_S3
+
+#Node number: 250
+248 49
+249 59
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 251
+252 73
+255 110
+-1 -1
+-1 -1
+-1 -1
+-1 -1
+sha_he_S2
+
+#Node number: 252
+202 48
+251 73
+221 109
+253 116
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 253
+204 57
+197 63
+252 116
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 254
+223 37
+219 48
+213 95
+-1 -1
+-1 -1
+-1 -1
+crossroads
+
+#Node number: 255
+247 49
+251 110
+238 246
+-1 -1
+-1 -1
+-1 -1
+crossroads
+

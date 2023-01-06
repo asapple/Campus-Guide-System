@@ -1,0 +1,17 @@
+INPUT(
+./debug\main.o
+./debug\widget.o
+./debug\form.o
+./debug\querywidget.o
+./debug\map.o
+./debug\buttonEvent.o
+./debug\Record.o
+./debug\recordwidget.o
+./debug\selectCanteen.o
+./debug\mappainter.o
+./debug\moc_widget.o
+./debug\moc_form.o
+./debug\moc_querywidget.o
+./debug\moc_recordwidget.o
+./debug\moc_mappainter.o
+);

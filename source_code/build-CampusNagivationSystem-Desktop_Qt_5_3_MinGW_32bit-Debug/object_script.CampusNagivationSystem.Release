@@ -1,0 +1,17 @@
+INPUT(
+./release\main.o
+./release\widget.o
+./release\form.o
+./release\querywidget.o
+./release\map.o
+./release\buttonEvent.o
+./release\Record.o
+./release\recordwidget.o
+./release\selectCanteen.o
+./release\mappainter.o
+./release\moc_widget.o
+./release\moc_form.o
+./release\moc_querywidget.o
+./release\moc_recordwidget.o
+./release\moc_mappainter.o
+);
